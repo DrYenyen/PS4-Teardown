@@ -5,7 +5,7 @@ Pictures and information about PS4 consoles.
 
 # PS4 Slim SAD-001
 
-# PS4 Slim SAD-003
+# PS4 Slim SAD-003 ROUGH DRAFT
 Description and contents
 To take it apart start by taking off the top panel this can be done by liting it away from the front where the usb ports are.
 On the PSU there is an antenna held down by 1 phillips screw after unscruwing it the antenna can be pulled back and released from the small L groove the cable sits in.
@@ -39,8 +39,11 @@ Disconnect the fan connector it is located between the 2 usb ports.
 The motherboard heatsink clamp is held down by 2 phillips screws they are sometimes 1 colour or 2 colours but placement does not matter they can be unscrewed the clamp taken away and its small flat pressure disributor the motherboard can then be gently lifted away and pulled outward towards while taking care of the 4 wire PSU controller cable.
 Once the motherboard is out it can be cleaned with a toothbrush or paintbrush some qtips and isopropyl alcohol. 
 The APU can be cleaned of thermal paste with qtips gently to not damage components on it.
-Taking off the heatsking can be done by unsrewing 2 screws down from the disc drive and 4 around the thermal transfer block.
-The can is held down by 2 phillips screws. 
+Taking off the heatsking can be done by unsrewing 2 screws down from the disc drive and 4 around the thermal transfer block after unscrewing them it can be lifted up and away.
+The fan is held down by 2 phillips screws after unscwering them it lifts up and away.
+The disc drive is held down by 3 phillips screws on the edges of it after unscrewing them it can be lifted up and away.
+The housing and all other parts can now be dusted off and wiped down with very slightly moist wipes preferably drenched in something that evaporates quickly like isopropyl alcohol.
+
 
                                                                                                                                                                                                        
 
